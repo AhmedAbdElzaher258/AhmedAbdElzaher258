@@ -41,6 +41,6 @@ class Developer(Me):
             "Backend": ["Python", "C#", ".NET Core", "Odoo ORM"],
             "Frontend": ["Odoo OWL", "JS", "XML", "HTML/CSS"],
             "Database": ["PostgreSQL", "SQL Server"],
-            "Languages": ["Arabic (Native)", "English", "German"]
+            "Languages": ["Arabic (Native)", "English"]
         }
         self.currently_building = "Clinical Management System (Odoo Custom Module)"
